@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/gson-2.8.2_871da1b109c53dfca9dd232dac6c18573e770220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_79141d47d730931e30d9bf63c72dd10989e08321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/98eb088b5e8ffe8af6ef111c34c6a1b54ea7d8ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_317db2bc10f7600304c2f795e013340784f026ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/3dbb81ed1ee764e10175d08c813a9a12f93e4681/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_b2c392c86b02924cdee81f39c3f54f2abb8f487f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/ed1a1d33e09469d8fa4189a2cef1080e8dafbe6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_9d4ac6a9c3f65f2480dc9c88dd14f9cdfbb7bf72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/826bb8a154b9ea88735510b6b67ea512aaa29fba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_a57b7ca0f495a4a21f618ed61baee6cf4a95c7df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/d840e8c68fb30ce5ba81f852d1e120f7aaae5df4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_5afbe6d46a7e6a26832e4b5c2f2a46da25f35f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/181342c92ffd3ce9efa4eb7c391cff77d4fa810f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_48bff5bbc705289350562060735ec94aa6f17fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/aa65fac6346b35ce190907cc7719cfff58b4a131/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_0408a01acaf34e7e555f528b49d1c44db735c4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/901e9e055bda9ba2e4aa0a5aaec829887177ac81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_244d18db6d7cca7107725caf189a788d61ccc0dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/b905ba2399725a1beab464a9b74b57e815804175/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_2bc7996560fd642c62a1ec7c6509b00d37cecfe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/classes_f1c89a89bd35c1cbd5016f0f26ba18e298dcda5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cshome/dwaters/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_b21179ad4f31fb5ab113a9ccc7fb1a034ceed502.jar" />
+    </item>
+
+</items>
