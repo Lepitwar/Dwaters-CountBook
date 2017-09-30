@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

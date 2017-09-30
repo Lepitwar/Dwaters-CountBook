@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/cshome/dwaters/.android/build-cache/4f4d23363ea1ffbef9129101193cccac91eec279/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

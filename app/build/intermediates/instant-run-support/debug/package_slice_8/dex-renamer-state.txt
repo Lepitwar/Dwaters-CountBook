@@ -1,0 +1,4 @@
+#Fri Sep 29 18:12:13 MDT 2017
+base.0=/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/cshome/dwaters/Dwaters-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
